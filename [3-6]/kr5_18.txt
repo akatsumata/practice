@@ -1,5 +1,0 @@
-x () * [] * () char
-char (*(*x())[])()
-char (*pfa[]
-char (*pfa[
-char (*pfa[])()
