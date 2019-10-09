@@ -1,0 +1,12 @@
+a	b
+a\tb
+
+a\b
+a\\b
+
+a[backspace*1]b
+b
+
+a^Hb
+a\bb
+
