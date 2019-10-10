@@ -1,0 +1,27 @@
+・abcの場合
+abc
+abc
+
+
+・a（半角スペース1つ）b（半角スペース1つ）c
+a b c
+a
+b
+c
+
+
+・a（半角スペース2つ）b（半角スペース2つ）c
+a  b  c
+a
+b
+c
+
+
+・abc（半角スペース1つ）def（半角スペース2つ）abc（タブ1つ）abc（タブ2つ）a
+abc def    abc   abc    a
+abc
+def
+abc
+abc
+a
+
