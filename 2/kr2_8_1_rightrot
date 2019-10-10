@@ -1,9 +1,0 @@
-unsigned rightrot(unsigned x, int n)
-{
-        int y, z;
-        y = x >> n;
-        z = x << (8 - n);
-        x = y | z;
-        return x;
-}
-
