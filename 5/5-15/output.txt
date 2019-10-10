@@ -1,0 +1,12 @@
+$ ./kr5_15_2 -f -r < kr5_15.txt
+TYU
+tyu
+KZ
+ghi
+GHI
+abc
+ABC
+7890
+543
+1234556
+
