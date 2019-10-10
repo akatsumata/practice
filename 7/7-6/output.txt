@@ -1,0 +1,7 @@
+$ ./kr7_6_1 kr7_6_file1.txt kr7_6_file2.txt
+
+output
+line: 1
+file1: hello, world123
+file2: hello, world987
+
