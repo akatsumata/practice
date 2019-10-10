@@ -1,4 +1,4 @@
-'#include <stdio.h>
+#include <stdio.h>
  
 #define IN    1
 #define OUT 0
@@ -30,4 +30,4 @@ long main()
     return 0;
  
 }
-'
+
