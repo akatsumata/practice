@@ -1,0 +1,5 @@
+$ gcc -g -o kr6_6_1 kr6_6_1.c l_strdup.c getword.c skip_comment.c buf.c
+$ ./kr6_6_1
+#define IN 1
+IN = 1
+
