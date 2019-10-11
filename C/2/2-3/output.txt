@@ -1,0 +1,3 @@
+Hex = a0
+eDecimal = 160
+

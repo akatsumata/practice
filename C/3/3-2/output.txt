@@ -1,0 +1,13 @@
+Original line=
+C_programming    c
+source
+cod\
+ 
+escape=
+C_programming\tc\nsource\ncode\b\\
+ 
+Reverse escape=
+C_programming    c
+source
+cod\
+

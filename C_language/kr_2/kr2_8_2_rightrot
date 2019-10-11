@@ -1,0 +1,10 @@
+unsigned rightrot(unsigned x, int n)
+{
+        int y, z;
+        y = z = 0;
+	y = x & ~(~0 << n);
+        z = x >> n;
+        x = z | y;
+        return x;
+}
+

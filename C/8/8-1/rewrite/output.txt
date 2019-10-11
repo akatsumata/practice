@@ -1,0 +1,14 @@
+$ time ./kr8_1_newcat_1 kr8_1_f1.txt kr8_1_f2.txt
+Excercise 8-1. Rewrite the program cat from Chapter 7 using read, write, open and close instead of their standard library equivalents.
+Perform experiments to determine the relative speeds of the two version.
+ 
+hello, world
+hello, world
+hello, world
+hello, world
+hello, world
+ 
+real    0m0.005s
+user    0m0.000s
+sys    0m0.004s
+

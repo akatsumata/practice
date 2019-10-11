@@ -1,0 +1,17 @@
+$ ./kr7_7_2 -n -x ab kr7_7.txt
+filename: kr7_7.txt
+1: 1234567890
+filename: kr7_7.txt
+2: aaaaaaaaaa
+filename: kr7_7.txt
+3: bbbbbbbbbb
+
+$ ./kr7_7_2 -n -x ab
+1234567890
+1: 1234567890
+aaaaaaaaaaa
+2: aaaaaaaaaaa
+ababababababab
+bbbbbbbbbbbbbb
+4: bbbbbbbbbbbbbb
+

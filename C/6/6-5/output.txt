@@ -1,0 +1,7 @@
+$ gcc -g -o kr6_5_2 kr6_5_2.c l_strdup.c
+$ ./kr6_5_2
+- before undef -
+undef , C programming
+- after undef-
+ 
+

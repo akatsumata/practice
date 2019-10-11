@@ -1,0 +1,14 @@
+$ gcc -g -o kr6_4_1 kr6_4_1.c getword.c skip_comment.c buf.c l_strdup.c
+$ ./kr6_4_1
+abc
+abc
+abc and the bbb
+CCC
+CCC
+
+3: abc
+2: CCC
+1: and
+1: bbb
+1: the
+

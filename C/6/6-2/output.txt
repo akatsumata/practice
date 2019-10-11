@@ -1,0 +1,10 @@
+$ gcc -g -o kr6_2_2 kr6_2_2.c getword.c skip_comment.c buf.c
+$ ./kr6_2_2 6 < kr6_2_2.c
+first_len_char = 6 char
+aaaaaaaaaa
+aaaaaaabab
+aaaaaabbbb
+bbbbbbaaaa
+bbbbbbabab
+bbbbbbbbbb
+

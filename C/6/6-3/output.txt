@@ -1,0 +1,13 @@
+$ gcc -g -o kr6_3_3 kr6_3_3.c buf.c skip_comment.c l_strdup.c
+$ ./kr6_3_3
+abc
+abc
+abc
+bbb ant
+bbb and the ccc
+
+abc:1, 2, 3,
+ant:4,
+bbb:4, 5,
+ccc:5,
+

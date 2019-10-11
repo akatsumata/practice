@@ -1,0 +1,31 @@
+1+2-3      
+value n =1
+value n+1 =43
+value n+1 =+
+ 
+value n =2
+value n+1 =45
+value n+1 =-
+ 
+value n =-3
+value n+1 =10
+value n+1 =
+ 
+ 
+1 + 2 - 3
+value n =1
+value n+1 =32
+value n+1 =
+ 
++ or - = +
+ 
+value n =2
+value n+1 =32
+value n+1 =
+ 
++ or - = -
+ 
+value n =3
+value n+1 =10
+value n+1 =
+

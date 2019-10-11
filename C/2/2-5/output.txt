@@ -1,0 +1,7 @@
+line
+=23456789
+ant_string
+=567
+first_location
+=3
+

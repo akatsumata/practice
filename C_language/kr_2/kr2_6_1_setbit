@@ -1,0 +1,11 @@
+unsigned setbits(unsigned x, int p, int n, unsigned y)
+{
+        x = y;
+        y = x >> (p + 1 -n) & ~(~0 << n);
+        x = x >> n;
+        x = x << n;
+        x = y | x;
+
+        return x;
+}
+

@@ -1,0 +1,13 @@
+$ ./kr5_14_3 -r -n
+C
+programming
+123
+89
+567
+ 
+567
+123
+89
+C
+programming
+
