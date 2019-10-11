@@ -1,5 +1,0 @@
-value i1=-128
-string =-128
-value i2=127
-string =127
-

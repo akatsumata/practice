@@ -1,6 +1,0 @@
-$ ./kr7_4_1
-04 Sep 2019
-
-output
-  day=4, monthname=Sep, year=2019
-

@@ -1,1 +1,0 @@
-unsigned n =65535, radix b =16, string s =FFFF

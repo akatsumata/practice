@@ -1,3 +1,0 @@
-0:charakker programming charakter
-0:char char char
-line include of 'char': 2line

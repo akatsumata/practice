@@ -1,7 +1,0 @@
-$ gcc -o kr4_1_1_all kr4_1_1_main.c kr4_1_1_strrindex.c kr4_1_1_l_getline.c
-$ ./kr4_1_1_all < kr4_1_2_text > kr4_1_1_all_out
-line=
-world hellow world c world programming
-position=
-23
-

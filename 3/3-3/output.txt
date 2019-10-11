@@ -1,4 +1,0 @@
--abcdefghijklmnopqrstuvwxyz-
-abcdefghijklmnopqrstuvwxyz0123456789
-abc
-

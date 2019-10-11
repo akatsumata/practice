@@ -1,3 +1,0 @@
-s=hello, world, t1=world, return 1
-s=hello, world, t2=programming, return=0
-
