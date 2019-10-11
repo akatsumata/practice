@@ -1,5 +1,0 @@
-C programming
-How much faster is the program?
-Rewrite readlines to store lines in an array supplied by main,
-hello, world
-rather than calling alloc to maintain storage.
