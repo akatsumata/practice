@@ -1,0 +1,13 @@
+int bitcount(unsigned x)
+{
+        int bit;
+
+        bit = 0;
+        while(x != 0){
+                x = x & (x - 1);
+                bit++;
+        }
+
+        return bit;
+}
+

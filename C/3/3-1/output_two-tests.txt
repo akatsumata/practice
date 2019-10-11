@@ -1,0 +1,51 @@
+$ time ./kr3_1_3_twicetest
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+ 
+real    0m0.004s
+user    0m0.001s
+sys    0m0.003s
+
+
+$ time for i in `seq 1 1000`; do ./kr3_1_3_twicetest; done
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+(・・・長いので省略・・・)
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+ 
+real    0m2.989s
+user    0m0.262s
+sys    0m2.616s
+
+
+$ time for i in `seq 1 10000`; do ./kr3_1_3_twicetest; done
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+（・・・長いので省略・・・）
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+ 
+real    0m30.511s
+user    0m2.612s
+sys    0m26.654s
+
+
+$ time for i in `seq 1 100000`; do ./kr3_1_3_twicetest; done
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+（・・・長いので省略・・・）
+searching value(x) = 17
+x position(v) = 17
+ n = 0-19
+ 
+real    13m55.367s
+user    0m36.334s
+sys    13m4.042s
+

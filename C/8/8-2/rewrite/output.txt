@@ -1,0 +1,23 @@
+$ gcc -g -o kr8_2_field_flag_2 kr8_2_field_flag_2.c syscalls_field.h
+$ ./kr8_2_field_flag_2
+hello, world
+hello, world
+0123456789
+$ time ./kr8_2_field_flag_2
+hello, world
+hello, world
+0123456789
+ 
+real    0m0.004s
+user    0m0.001s
+sys    0m0.003s
+$ du -b kr8_2_field_flag_2.c syscalls_field.h kr8_2.txt
+2163    kr8_2_field_flag_2.c
+1190    syscalls_field.h
+37    kr8_2.txt
+$ wc kr8_2_field_flag_2.c syscalls_field.h kr8_2.txt
+  98  286 2163 kr8_2_field_flag_2.c
+  45  179 1190 syscalls_field.h
+   3    5   37 kr8_2.txt
+ 146  470 3390 合計
+
